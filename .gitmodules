@@ -1,0 +1,3 @@
+[submodule "demorepo-test"]
+	path = demorepo-test
+	url = git@gitlab.com:demosense/devops/demorepo-test.git
